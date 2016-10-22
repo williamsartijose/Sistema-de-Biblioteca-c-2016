@@ -1,0 +1,48 @@
+C:\Users\WSJ\Desktop\Trabalho almir blibi\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe.config
+C:\Users\WSJ\Desktop\Trabalho almir blibi\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csprojResolveAssemblyReference.cache
+C:\Users\WSJ\Desktop\Trabalho almir blibi\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Log.resources
+C:\Users\WSJ\Desktop\Trabalho almir blibi\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Menu.resources
+C:\Users\WSJ\Desktop\Trabalho almir blibi\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Properties.Resources.resources
+C:\Users\WSJ\Desktop\Trabalho almir blibi\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csproj.GenerateResource.Cache
+C:\Users\WSJ\Desktop\Trabalho almir blibi\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe
+C:\Users\WSJ\Desktop\Trabalho almir blibi\Biblioteca\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\WSJ\Desktop\Trabalho almir blibi\Biblioteca\Biblioteca\obj\Debug\Biblioteca.exe
+C:\Users\WSJ\Desktop\Trabalho almir blibi\Biblioteca\Biblioteca\obj\Debug\Biblioteca.pdb
+C:\Users\WSJ\Desktop\Trabalho almir blibi\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Cliente.resources
+C:\Users\WSJ\Desktop\Trabalho almir blibi\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Funcionario.resources
+C:\Users\WSJ\Desktop\Trabalho almir blibi\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Livro.resources
+C:\Users\WSJ\Desktop\Trabalho almir blibi\Biblioteca\Biblioteca\obj\Debug\Biblioteca.frmBuscar.resources
+C:\Users\WSJ\Desktop\Trabalho almir blibi\Biblioteca\Biblioteca\obj\Debug\Biblioteca.frmFuncionario.resources
+C:\Users\WSJ\Desktop\Trabalho almir blibi\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Locacao.resources
+C:\Users\WSJ\Desktop\Trabalho almir blibi\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Relatorio.resources
+C:\Users\WSJ\Desktop\Trabalho almir blibi\Biblioteca\Biblioteca\obj\Debug\RdlCompile.cache
+C:\Users\WSJ\Desktop\Trabalho almir blibi\Biblioteca\Biblioteca\obj\Debug\RdlCompile.compiled
+C:\Users\WSJ\Desktop\Trabalho almir blibi\Biblioteca\Biblioteca\obj\Debug\Biblioteca.RelCliente.resources
+C:\Users\WSJ\Desktop\Trabalho almir blibi\Biblioteca\Biblioteca\obj\Debug\Biblioteca.RelLivro.resources
+C:\Users\WSJ\Desktop\Trabalho almir blibi\Biblioteca\Biblioteca\obj\Debug\Biblioteca.RelLocacao.resources
+C:\Users\WSJ\Desktop\Trabalho almir blibi\Biblioteca\Biblioteca\obj\Debug\Biblioteca.RelItem.resources
+C:\Users\WSJ\Desktop\Trabalho almir blibi\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Sobre.resources
+C:\Users\WSJ\Pictures\2°BCC\1Semestre de bcc2 ano\Linguagem de Programação\C# 2Semestre 2 ano\Trabalho almir blibi\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe.config
+C:\Users\WSJ\Pictures\2°BCC\1Semestre de bcc2 ano\Linguagem de Programação\C# 2Semestre 2 ano\Trabalho almir blibi\Biblioteca\Biblioteca\obj\Debug\Biblioteca.exe
+C:\Users\WSJ\Pictures\2°BCC\1Semestre de bcc2 ano\Linguagem de Programação\C# 2Semestre 2 ano\Trabalho almir blibi\Biblioteca\Biblioteca\obj\Debug\Biblioteca.pdb
+C:\Users\WSJ\Pictures\2°BCC\1Semestre de bcc2 ano\Linguagem de Programação\C# 2Semestre 2 ano\Trabalho almir blibi\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe
+C:\Users\WSJ\Pictures\2°BCC\1Semestre de bcc2 ano\Linguagem de Programação\C# 2Semestre 2 ano\Trabalho almir blibi\Biblioteca\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\WSJ\Pictures\2°BCC\1Semestre de bcc2 ano\Linguagem de Programação\C# 2Semestre 2 ano\Trabalho almir blibi\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csprojResolveAssemblyReference.cache
+C:\Users\WSJ\Pictures\2°BCC\1Semestre de bcc2 ano\Linguagem de Programação\C# 2Semestre 2 ano\Trabalho almir blibi\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Cliente.resources
+C:\Users\WSJ\Pictures\2°BCC\1Semestre de bcc2 ano\Linguagem de Programação\C# 2Semestre 2 ano\Trabalho almir blibi\Biblioteca\Biblioteca\obj\Debug\Biblioteca.frmBuscar.resources
+C:\Users\WSJ\Pictures\2°BCC\1Semestre de bcc2 ano\Linguagem de Programação\C# 2Semestre 2 ano\Trabalho almir blibi\Biblioteca\Biblioteca\obj\Debug\Biblioteca.frmFuncionario.resources
+C:\Users\WSJ\Pictures\2°BCC\1Semestre de bcc2 ano\Linguagem de Programação\C# 2Semestre 2 ano\Trabalho almir blibi\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Funcionario.resources
+C:\Users\WSJ\Pictures\2°BCC\1Semestre de bcc2 ano\Linguagem de Programação\C# 2Semestre 2 ano\Trabalho almir blibi\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Livro.resources
+C:\Users\WSJ\Pictures\2°BCC\1Semestre de bcc2 ano\Linguagem de Programação\C# 2Semestre 2 ano\Trabalho almir blibi\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Locacao.resources
+C:\Users\WSJ\Pictures\2°BCC\1Semestre de bcc2 ano\Linguagem de Programação\C# 2Semestre 2 ano\Trabalho almir blibi\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Log.resources
+C:\Users\WSJ\Pictures\2°BCC\1Semestre de bcc2 ano\Linguagem de Programação\C# 2Semestre 2 ano\Trabalho almir blibi\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Menu.resources
+C:\Users\WSJ\Pictures\2°BCC\1Semestre de bcc2 ano\Linguagem de Programação\C# 2Semestre 2 ano\Trabalho almir blibi\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Properties.Resources.resources
+C:\Users\WSJ\Pictures\2°BCC\1Semestre de bcc2 ano\Linguagem de Programação\C# 2Semestre 2 ano\Trabalho almir blibi\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Relatorio.resources
+C:\Users\WSJ\Pictures\2°BCC\1Semestre de bcc2 ano\Linguagem de Programação\C# 2Semestre 2 ano\Trabalho almir blibi\Biblioteca\Biblioteca\obj\Debug\Biblioteca.RelCliente.resources
+C:\Users\WSJ\Pictures\2°BCC\1Semestre de bcc2 ano\Linguagem de Programação\C# 2Semestre 2 ano\Trabalho almir blibi\Biblioteca\Biblioteca\obj\Debug\Biblioteca.RelItem.resources
+C:\Users\WSJ\Pictures\2°BCC\1Semestre de bcc2 ano\Linguagem de Programação\C# 2Semestre 2 ano\Trabalho almir blibi\Biblioteca\Biblioteca\obj\Debug\Biblioteca.RelLivro.resources
+C:\Users\WSJ\Pictures\2°BCC\1Semestre de bcc2 ano\Linguagem de Programação\C# 2Semestre 2 ano\Trabalho almir blibi\Biblioteca\Biblioteca\obj\Debug\Biblioteca.RelLocacao.resources
+C:\Users\WSJ\Pictures\2°BCC\1Semestre de bcc2 ano\Linguagem de Programação\C# 2Semestre 2 ano\Trabalho almir blibi\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Sobre.resources
+C:\Users\WSJ\Pictures\2°BCC\1Semestre de bcc2 ano\Linguagem de Programação\C# 2Semestre 2 ano\Trabalho almir blibi\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csproj.GenerateResource.Cache
+C:\Users\WSJ\Pictures\2°BCC\1Semestre de bcc2 ano\Linguagem de Programação\C# 2Semestre 2 ano\Trabalho almir blibi\Biblioteca\Biblioteca\obj\Debug\RdlCompile.cache
+C:\Users\WSJ\Pictures\2°BCC\1Semestre de bcc2 ano\Linguagem de Programação\C# 2Semestre 2 ano\Trabalho almir blibi\Biblioteca\Biblioteca\obj\Debug\RdlCompile.compiled
